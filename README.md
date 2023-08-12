@@ -6,4 +6,4 @@
 - `Vitis`
 
 ### IP for device
-- `AT24C256`
+- [AT24C256](https://github.com/Taeho-Cho/FPGA/tree/main/AT24C256)
