@@ -1,5 +1,5 @@
 ### FPGA dev board
-- `Cora-Z7`
+- [Cora-Z7] (https://digilent.com/reference/programmable-logic/cora-z7/start)
 
 ### Tools
 - `Vivado`
