@@ -1,4 +1,4 @@
-### FPGA dev board
+### FPGA development board
 - [Cora-Z7](https://digilent.com/reference/programmable-logic/cora-z7/start)
 
 ### Tools
