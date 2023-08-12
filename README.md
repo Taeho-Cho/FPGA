@@ -1,9 +1,9 @@
 ### FPGA dev board
-- [Cora-Z7] (https://digilent.com/reference/programmable-logic/cora-z7/start)
+- [Cora-Z7](https://digilent.com/reference/programmable-logic/cora-z7/start)
 
 ### Tools
 - `Vivado`
-- `Vitis
+- `Vitis`
 
 ### IP for device
 - `AT24C256`
