@@ -41,12 +41,10 @@ these commands can be found in the datasheet
 
 ## Vitis debugging
 
-
-
-1. write a value into a memory address of the AT24C256
+1. write a value 0x12 into a memory address of the AT24C256
 
 ![Vitis1](https://github.com/Taeho-Cho/FPGA/assets/57129682/16773a7b-088e-4a0d-9ec3-ab1b50daeabd)
 
-2. read from the same memory address to see if the value is the same
+2. read from the same memory address to see if the value 0x12 is read
 
 ![Vitis2](https://github.com/Taeho-Cho/FPGA/assets/57129682/62e511c7-61db-4eca-af16-f8d4706215c3)
