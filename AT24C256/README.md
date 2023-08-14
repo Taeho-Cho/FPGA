@@ -20,14 +20,14 @@ these commands can be found in the datasheet
 
 ## Simulation
 > Byte Write command simulation
-![BWS](https://github.com/Taeho-Cho/FPGA/assets/57129682/5783386e-6714-4edf-9a6b-4f41c4bac1da)
+![simul_BW](https://github.com/Taeho-Cho/FPGA/assets/57129682/57f2c450-25ad-4285-a047-7d29bd4ead17)
 
 > Random Read command simulation
-![RRW](https://github.com/Taeho-Cho/FPGA/assets/57129682/60e75774-2caf-4b5c-882a-e5499478fe2e)
+![simul_RR](https://github.com/Taeho-Cho/FPGA/assets/57129682/e027fe55-f8f5-4b97-93c7-eff6648300ac)
 
 
 ## Block Diagram
-![BD](https://github.com/Taeho-Cho/FPGA/assets/57129682/851de8ad-0d94-4a57-80a8-ac0e4c1a2464)
+![BD](https://github.com/Taeho-Cho/FPGA/assets/57129682/db42c99b-d942-49af-b1c4-3320ca019a49)
 
 ## Cora-Z7 and AT24C256 connect
 ![CoraEEPROM](https://github.com/Taeho-Cho/FPGA/assets/57129682/41700a46-ee67-4b9d-a851-d9598297661c)
