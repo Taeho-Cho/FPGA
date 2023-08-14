@@ -18,7 +18,7 @@ wrap the RTL.sv files to add into the DB
 ![RandomRead](https://github.com/Taeho-Cho/FPGA/assets/57129682/d8bf3a57-caf5-4540-bd90-63470a2891d6)
 these commands can be found in the datasheet
 
-## Simulation
+## I2C Simulation
 > Byte Write command simulation
 ![simul_BW](https://github.com/Taeho-Cho/FPGA/assets/57129682/57f2c450-25ad-4285-a047-7d29bd4ead17)
 
