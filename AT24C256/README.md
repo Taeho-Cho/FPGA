@@ -45,8 +45,8 @@ these commands can be found in the datasheet
 
 1. write a value into a memory address of the AT24C256
 
-![Vitis1](https://github.com/Taeho-Cho/FPGA/assets/57129682/9139b62c-edb8-43d7-ae75-401ea454e540)
+![Vitis1](https://github.com/Taeho-Cho/FPGA/assets/57129682/16773a7b-088e-4a0d-9ec3-ab1b50daeabd)
 
 2. read from the same memory address to see if the value is the same
 
-![Vitis2](https://github.com/Taeho-Cho/FPGA/assets/57129682/eaca3311-1a54-41be-8c0d-35a1fdfd316f)
+![Vitis2](https://github.com/Taeho-Cho/FPGA/assets/57129682/62e511c7-61db-4eca-af16-f8d4706215c3)
